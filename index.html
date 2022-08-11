@@ -121,17 +121,16 @@
       <h2>Create your new blog content:</h2>
       <form class="loadNewImage" method="post">
         <label for="newImage">Select your Image:</label>
-        <br>
         <input id="newImage" type="file" name="newImage">
       </form>
       <form class="loadNewText">
         <label for="newText">Write your new text:</label>
-        <br>
         <textarea id="newText" name="text" cols="60" rows="12
         "></textarea>
       </form>
-      <input id="button" type="button" value="Add">
+      <input id="button" type="button" value="Add" onclick="createBlogEntry()">
     </div>
 
+    <script src="../main.js"></script>
 </body>
 </html>

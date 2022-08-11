@@ -168,14 +168,16 @@ h2 {
 label {
   font-style: italic;
   color: #14213d;
+  margin-bottom: 12px;
+  display: block;
 }
 
 .loadNewImage {
-  margin: 20px 0 10px 0;
+  margin: 40px 0 50px 0;
 }
 
 .loadNewText {
-  margin: 20px 0 10px 0;
+  margin: 20px 0 30px 0;
 }
 
 #button {
