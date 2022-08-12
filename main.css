@@ -112,6 +112,7 @@ nav li {
 
 .text-mountain-reverse {
   width: 60%;
+  height: auto;
   border: solid 1px #e5e5e5;
   padding: 0 20px 0 50px;
   margin-right: 10px;
